@@ -1,0 +1,50 @@
+@font-face {
+    font-family: "flaticon";
+    src: url("./flaticon.ttf?20c477a1990c6cacc04af75b4e16f277") format("truetype"),
+url("./flaticon.woff?20c477a1990c6cacc04af75b4e16f277") format("woff"),
+url("./flaticon.woff2?20c477a1990c6cacc04af75b4e16f277") format("woff2"),
+url("./flaticon.eot?20c477a1990c6cacc04af75b4e16f277#iefix") format("embedded-opentype"),
+url("./flaticon.svg?20c477a1990c6cacc04af75b4e16f277#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    /* line-height: 1; */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-loupe:before {
+    content: "\f101";
+}
+.flaticon-plus:before {
+    content: "\f102";
+}
+.flaticon-architect:before {
+    content: "\f103";
+}
+.flaticon-project:before {
+    content: "\f104";
+}
+.flaticon-repair-tools:before {
+    content: "\f105";
+}
+.flaticon-construction:before {
+    content: "\f106";
+}
+.flaticon-oil-pump:before {
+    content: "\f107";
+}
+.flaticon-hook:before {
+    content: "\f108";
+}
+.flaticon-home:before {
+    content: "\f109";
+}
+.flaticon-play-button:before {
+    content: "\f10a";
+}
